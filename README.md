@@ -1,2 +1,0 @@
-# anshul
-personal webpage

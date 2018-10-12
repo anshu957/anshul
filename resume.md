@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anshul's CV
+permalink: docs/
 redirect_to:
   - https://github.com/anshu957/anshu957.github.io/raw/master/docs/Anshul_Choudhary.pdf
 ---

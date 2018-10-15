@@ -28,6 +28,7 @@ orcid: 0000-0001-6651-5224
 disqus:
     shortname: anshu957
 
+export JEKYLL_ENV=production
 
 # Build settings
 markdown: kramdown

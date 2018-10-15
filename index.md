@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+![](/docs/home_page_pic.jpg)

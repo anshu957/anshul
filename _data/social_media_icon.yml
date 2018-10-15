@@ -1,0 +1,19 @@
+- sitename: googlescholar
+  userid: Tybi34wAAAAJ
+  use: true
+
+- sitename: orcid
+  userid: 0000-0001-6651-5224
+  use: true
+
+- sitename: researchgate
+  userid: Anshul_Choudhary
+  use: true
+
+- sitename: github
+  userid: anshu957
+  use: true
+
+- sitename: twitter
+  userid: anshulheaven
+  use: true

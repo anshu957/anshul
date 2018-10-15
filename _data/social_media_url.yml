@@ -1,0 +1,28 @@
+- sitename: googlescholar
+  prepend: https://scholar.google.com/citations?user=
+  append:
+  icon: ai ai-google-scholar
+
+
+- sitename: orcid
+  prepend: http://orcid.org/
+  append: 
+  icon: ai ai-orcid
+
+
+- sitename: researchgate
+  prepend: https://www.researchgate.net/profile/ 
+  append: 
+  icon: ai ai-researchgate
+
+- sitename: github
+  prepend: https://github.com/
+  append:
+  icon: fa fa-github 
+
+
+- sitename: twitter
+  prepend: https://twitter.com/
+  append:
+  icon: fa fa-twitter
+

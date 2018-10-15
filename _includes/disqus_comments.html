@@ -1,11 +1,14 @@
 {%- if page.comments != false and jekyll.environment == site.jekyll_env -%}
 
   <div id="disqus_thread"></div>
-  <script>
+ <script>
+   /** 
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
       this.page.identifier = '{{ site.disqus.shortname }}';
     };
+   
+   */
 
     (function() {
       var d = document, s = d.createElement('script');

@@ -31,6 +31,8 @@ disqus:
 # Build settings
 markdown: kramdown
 theme: minima
+JEKYLL_ENV=production
+
 plugins:
     - jekyll-feed
     - jekyll-redirect-from

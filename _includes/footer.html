@@ -25,8 +25,7 @@
 
   <div class="footer-col one-col">
      <!--   <p>{{- site.description | escape -}}</p>  -->
-       {{ site.name }} © {{ site.time | date: '%Y' }} <p
-       class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+       {{ site.name }} © {{ site.time | date: '%Y' }} <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
        <p class="extra">
         Powered by <a class="link" href="https://jekyllrb.com/">Jekyll (minima)</a> and <a class="link" href="https://jpswalsh.github.io/academicons/">Academicons</a>
       </div>

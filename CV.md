@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+if_title: false
 ---
 
 <embed src="https://anshu957.github.io/docs/Anshul_Choudhary.pdf" width="800px" height="700px" type="application/pdf" />

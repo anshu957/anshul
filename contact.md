@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+if_title: true
 ---
 
 Office Address:

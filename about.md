@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+if_title: true
 ---
 
 Welcome to my webpage! <br/>

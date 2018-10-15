@@ -18,6 +18,11 @@
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
+.one-col {
+  width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+  width:         calc(100% - (#{$spacing-unit} / 2));
+}
+
 
 .social-media-list {
   display: table;

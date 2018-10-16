@@ -23,7 +23,7 @@
 -->
          
 
-  <div class="footer-col one-col">
+  <div class="footer-col one-half">
      <!--   <p>{{- site.description | escape -}}</p>  -->
        {{ site.name }} © {{ site.time | date: '%Y' }} 
        <p class="extra">
@@ -32,12 +32,13 @@
       <br>
 
 
-    </right>
-          <div class="social-links">
+      <div class = "footer-col one-half">
+        <div class="social-links">
           <ul class="social-media-list">
+          </center>
             {% assign sitenames = "github orcid googlescholar researchgate twitter" | split: ' ' %}
             {% for sitename in sitenames %}
-              {% for profile in site.data.social_media_icon %}
+            {% for profile in site.data.social_media_icon %}
                 {% if profile.sitename == sitename %}
                   <li>
                     <a href="{% include social_media_url.html sitename=profile.sitename userID=profile.userid %}" rel="me">
@@ -47,6 +48,7 @@
                 {% endif %}
               {% endfor %}
             {% endfor %}
+          <center/>
           </ul>
   </div>
       </div>

@@ -30,18 +30,17 @@
   li {
     float: left;
     a {
-      display: block;
       display: flex;
       margin: 0 5px;
       padding: $spacing-unit / 4;
-      border: 1px solid $grey-color-light
+      background: white
     }
-    &:hover .svg-icon { fill: $brand-color; }
+    &:hover .svg-icon { fill: red; }
   }
   .svg-icon {
-    width: $social-icon-size;
-    height: $social-icon-size;
-    fill: $grey-color;
+   width: $social-icon-size;
+    height: $social-icon-size; 
+    fill: red;
   }
 }
 
@@ -143,6 +142,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background : darkgray;
 }
 
 .footer-heading {

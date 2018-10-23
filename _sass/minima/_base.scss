@@ -116,7 +116,7 @@ a {
   }
 
   .social-media-list &:hover {
-    text-decoration: none;
+    text-decoration: line-through;
 
     .username {
       text-decoration: underline;

@@ -1,7 +1,9 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
+
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond|Raleway');
 
 p.western { font-family: "EB Garamond"; font-size: 11pt }

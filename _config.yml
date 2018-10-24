@@ -51,3 +51,38 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Site Author
+author:
+  name             : "Anshul Choudhary"
+  avatar           : "docs/profile_pic.jpg"
+  bio              : "Postdoctoral Researcher, Physics of Complex Systems, University of Oldenburg"
+  location         : "Oldenburg, Germany"
+  employer         : 
+  googlescholar    : "https://scholar.google.de/citations?user=Tybi34wAAAAJ"
+  email            : "anshul.choudhary@uol.de"
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : "anshu957"
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        : 

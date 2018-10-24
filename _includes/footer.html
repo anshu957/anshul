@@ -1,9 +1,9 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  
+
   <div class="wrapper">
 
-<!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> :wrapper 
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> :wrapper 
 
     <div class="footer-col-wrapper">
            <div class="footer-col one-half">
@@ -21,36 +21,34 @@
         </ul>
       </div>
 -->
-         
 
-  <div class="footer-col one-half">
-     <!--   <p>{{- site.description | escape -}}</p>  -->
-       {{ site.name }} © {{ site.time | date: '%Y' }} 
-       <p class="extra">
+
+    <div class="footer-col one-half">
+      <!--   <p>{{- site.description | escape -}}</p>  -->
+      {{ site.name }} © {{ site.time | date: '%Y' }}
+      <p class="extra">
         Powered by <a class="link" href="https://jekyllrb.com/">Jekyll (minima)</a> and <a class="link" href="https://jpswalsh.github.io/academicons/">Academicons</a>
-      </div>
-      <br>
+    </div>
 
-
-      <div class = "footer-col one-half">
-        <div class="social-links">
-          <ul class="social-media-list">
+    <div class="footer-col one-half">
+      <div class="social-links">
+        <ul class="social-media-list">
           </center>
-            {% assign sitenames = "github orcid googlescholar researchgate twitter" | split: ' ' %}
-            {% for sitename in sitenames %}
-            {% for profile in site.data.social_media_icon %}
-                {% if profile.sitename == sitename %}
-                  <li>
-                    <a href="{% include social_media_url.html sitename=profile.sitename userID=profile.userid %}" rel="me">
-                       <i class="{% include social_media_icon.html sitename=profile.sitename %}"></i>
-                    </a>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-          <center/>
-          </ul>
+          {% assign sitenames = "github orcid googlescholar researchgate twitter" | split: ' ' %}
+          {% for sitename in sitenames %}
+          {% for profile in site.data.social_media_icon %}
+          {% if profile.sitename == sitename %}
+          <li>
+            <a href="{% include social_media_url.html sitename=profile.sitename userID=profile.userid %}" rel="me">
+              <i class="{% include social_media_icon.html sitename=profile.sitename %}"></i>
+            </a>
+          </li>
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+          <center />
+        </ul>
+      </div>
+    </div>
   </div>
-      </div>
-      </div>
 </footer>

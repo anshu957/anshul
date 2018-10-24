@@ -8,6 +8,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  background:whitesmoke;
 }
 
 /**
@@ -147,7 +148,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 12;
 }
 
 .contact-list,
@@ -165,7 +166,7 @@
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 12;
   padding-left: $spacing-unit / 2;
 }
 

@@ -1,3 +1,2 @@
-# anshul
-personal webpage
+### Personal webpage <br/>
 https://anshu957.github.io

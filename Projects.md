@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: "Research Projects"
 permalink: /projects/
@@ -13,7 +13,8 @@ if_title : false
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-        project details  
+        project details 
+        ...coming soon 
       </p>
     </div>
   </div>

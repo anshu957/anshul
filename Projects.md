@@ -30,6 +30,7 @@ if_title : false
     <div class="content-inner">
       <p>
       something different
+      coming soon ...
       </p>
     </div>
   </div>

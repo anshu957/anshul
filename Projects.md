@@ -15,6 +15,7 @@ if_title : false
       <p>
         project details 
         ...coming soon 
+        ...yolo
       </p>
     </div>
   </div>

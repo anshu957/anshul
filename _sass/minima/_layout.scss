@@ -310,7 +310,7 @@ input[type='checkbox'] {
   text-transform: uppercase;
   text-align: center;
 
-  padding: 1rem;
+  padding: 2rem;
 
   color: #A77B0E;
   background:greenyellow;
@@ -351,7 +351,7 @@ input[type='checkbox'] {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 350px;
+  max-height: 400px;
 }
 
 .toggle:checked + .lbl-toggle {

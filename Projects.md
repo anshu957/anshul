@@ -18,20 +18,18 @@ if_title : false
       </p>
     </div>
   </div>
-</div>
 
 <br/>
-<br/>
 
-<div class="wrap-collabsible">
   <input id="collapsible2" class="toggle" type="checkbox">
   <label for="collapsible2" class="lbl-toggle">First observation of an unexpected and intriguing kind of phase synchronization between coupled non-identical oscillators</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
-      something different
-      coming soon ...
-      yolo..
+      The emergence of spontaneous order in a system of multiple interacting agents
+       without the presence of focal point of control is one of the most
+ubiquitous and crucial phenomenon that pervades all nature. This order (populary known in dynamical systems community as <font color="red"> <b>synchronization</b></font>) among elements enables a system to perform a vast range of collective tasks such as generation of rhythm in a heart pacemaker and synchronous spiking of neurons in the brain.
+    This projects focuses on an <font color="blue">accidental discovery</font> of a new kind of order in which weakly coupled units are in phase synchrony with each other while the strongly interacting (coupled) ones remains de-sychronized. This non-trivial state could have several interesting implications. One immediate problem that we can think of is the detection of weak/strong links (interactions) in a network of multiple units based upon their spatio-temporal behavior. 
       </p>
     </div>
   </div>

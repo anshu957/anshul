@@ -18,7 +18,7 @@ Feudel, U.<font color="brown"> Weak-Winner Phase Synchronization. </font> <em>Su
 Predicts Effects of Biodiversity on Biomass Production </font> <em>Submitted (2018)</em>.
 
 <p class="hangingindent"> Chaurasia, S. S., <b> Choudhary, A. </b>, Shrimali, M. D., & Sinha, S.<font color="brown"> Suppression 
-and Revival of Oscillations through Time-varying Interaction </font> <em>Submitted (2018) </em>. [<a href="https://arxiv.org/abs/1701.07314v1">pre-print</a>]
+and Revival of Oscillations through Time-varying Interaction </font> <em> Chaos, Solitons and Fractals, In press (2019) </em>. [<a href="https://arxiv.org/abs/1701.07314v1">pre-print</a>]
 
 <p class="hangingindent"> Mitra, C., Kittel, T., <b> Choudhary, A. </b> , Kurths, J., and Donner, R. V.<font color="brown"> Recovery
 time after localized perturbations in complex dynamical networks </font>. <em> New Journal

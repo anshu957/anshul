@@ -12,7 +12,7 @@ title: Publications
 
 <p class="hangingindent">
 <b>Choudhary, A.</b>, Saha, A., Krueger, S., Finke, C., Rosa Jr., E., Freund, J.A.,
-Feudel, U.<font color="brown"> Weak-Winner Phase Synchronization. </font> <em>Submitted (2018) </em> .
+Feudel, U.<font color="brown"> Weak-Winner Phase Synchronization. </font> <em>Submitted (2018) </em>[<a href="https://arxiv.org/abs/1812.02642">pre-print</a>] .
 
 <p class="hangingindent"> Dutta, P.S., Ramesh, A., Kooi, B., <b> Choudhary, A. </b>, Feudal, U.<font color="brown"> Trait Dissimilarity
 Predicts Effects of Biodiversity on Biomass Production </font> <em>Submitted (2018)</em>.

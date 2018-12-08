@@ -12,10 +12,17 @@ title: Publications
 
 <p class="hangingindent">
 <b>Choudhary, A.</b>, Saha, A., Krueger, S., Finke, C., Rosa Jr., E., Freund, J.A.,
-Feudel, U.<font color="brown"> Weak-Winner Phase Synchronization. </font> <em>Submitted (2018) </em>[<a href="https://arxiv.org/abs/1812.02642">pre-print</a>] .
+Feudel, U.<font color="brown"> Weak-Winner Phase Synchronization. </font> <em> Under review (2018) </em>[<a href="https://arxiv.org/abs/1812.02642">pre-print</a>] .
 
-<p class="hangingindent"> Dutta, P.S., Ramesh, A., Kooi, B., <b> Choudhary, A. </b>, Feudal, U.<font color="brown"> Trait Dissimilarity
-Predicts Effects of Biodiversity on Biomass Production </font> <em>Submitted (2018)</em>.
+<p class="hangingindent"> Dutta, P.S., Ramesh, A., Kooi, B., <b> Choudhary, A. </b>, Feudel, U.<font color="brown"> Trait Dissimilarity
+Predicts Effects of Biodiversity on Biomass Production </font> <em>Under review (2018)</em>.
+
+<p class="hangingindent"> <b> Choudhary, A. </b>, Feudel, U.<font
+color="brown">  Clustering in trait space leads to co-existence in a community competing for limited resources </font> <em> (2018).</em>
+
+<p class="hangingindent"> <b> Choudhary, A. </b>, Ramesh, A., Dutta, P.S., Feudel, U.<font
+color="brown"> Role of dispersal and nutrient heterogeneity in maintaining
+supersaturation state in a metacommunity </font> <em> (2018). </em>
 
 <p class="hangingindent"> Chaurasia, S. S., <b> Choudhary, A. </b>, Shrimali, M. D., & Sinha, S.<font color="brown"> Suppression 
 and Revival of Oscillations through Time-varying Interaction </font> <em> Chaos, Solitons and Fractals, In press (2019) </em>. [<a href="https://arxiv.org/abs/1701.07314v1">pre-print</a>] [<a href="https://www.sciencedirect.com/science/article/pii/S0960077918306453?dgcid=author"> pdf</a>]

@@ -7,7 +7,7 @@ if_title: true
 
 Welcome to my webpage! <br/>
 <div style = "float: right; position: relative;">
-<img src="/docs/profile_pic.jpg" width="240" height="280"> </div>
+<img src="/docs/profile_pic.jpg" width="220" height="220"> </div>
  <br/>
 I'm an engineer turned physicist currently working on problems in theoretical ecology using concepts and ideas from network theory <br/>
 and dynamical systems theory.

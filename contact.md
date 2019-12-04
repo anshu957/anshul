@@ -6,12 +6,12 @@ if_title: true
 
 Office Address:
 
-`Nonlinear Artifical Intelligence Lab`<br/>
+Nonlinear Artifical Intelligence Lab<br/>
 Department of Physics<br/>
 North Carolina State University
 NC, USA
 
-Email: [{{achoudh7@ncsu.edu}}](mailto:{{achoudh7@ncsu.edu}})
+Email: `achoudh7@ncsu.edu`
 
 Skype: `anshul.choudhary14`
 

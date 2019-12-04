@@ -6,11 +6,12 @@ if_title: true
 
 Office Address:
 
-Department of `Physics of Complex Systems`<br/>
-Institute for Chemistry and Biology of the Marine Environment<br/>
-University of Oldenburg, Oldenburg, Germany.
+Nonlinear Artifical Intelligence Lab<br/>
+Department of Physics<br/>
+North Carolina State University
+NC, USA
 
-Email: [{{site.email}}](mailto:{{site.email}})
+Email: `achoudh7@ncsu.edu`
 
 Skype: `anshul.choudhary14`
 

@@ -9,11 +9,10 @@ Welcome to my webpage! <br/>
 <div style = "float: right; position: relative;">
 <img src="/docs/profile_pic.jpg" width="220" height="220"> </div>
  <br/>
-I'm an engineer turned physicist currently working on problems in theoretical ecology using concepts and ideas from network theory <br/>
-and dynamical systems theory.
+I'm an engineer turned physicist currently working at the intesection of `chaos theory` and `machine learning`. <br/>
 
-Currently, I'm a `postdoctoral fellow` at the  Institute for <br/>
-Chemistry and Biology of the Marine Environment~(ICBM), <br/> University of Oldenburg, Germany.
+Currently, I'm a `postdoctoral fellow` at the Nonlinear Artificial Intelligence Laboratory <br/>
+at North Carolina State University.
 
 If you would like to know more about my research, please check-out my `Research Projects` page.
 

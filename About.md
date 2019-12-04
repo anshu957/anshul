@@ -7,7 +7,7 @@ if_title: true
 
 Welcome to my webpage! <br/>
 <div style = "float: right; position: relative;">
-<img src="/docs/profile_pic.jpg" width="220" height="220"> </div>
+<img src="/docs/profile_pic.jpg" width="200" height="200"> </div>
  <br/>
 I'm an engineer turned physicist currently working at the intesection of `chaos theory` and `machine learning`. <br/>
 

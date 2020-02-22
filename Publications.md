@@ -11,6 +11,10 @@ title: Publications
 <h1 style="padding-top:10px;">Publications</h1>
 
 <p class="hangingindent">
+<b>Choudhary, A.</b>,  Lindner, J. F., Holliday, E. G., Miller, S. T., Sinha, S., & Ditto, W. L.<font color="brown"> Physics enhanced neural networks predict order and chaos. </font> <em> Under review (2020) </em>[<a href="https://arxiv.org/pdf/1912.01958.pdf">pre-print</a>] .
+
+
+<p class="hangingindent">
 <b>Choudhary, A.</b>, Saha, A., Krueger, S., Finke, C., Rosa Jr., E., Freund, J.A.,
 Feudel, U.<font color="brown"> Weak-Winner Phase Synchronization. </font> <em> Under review (2018) </em>[<a href="https://arxiv.org/abs/1812.02642">pre-print</a>] .
 

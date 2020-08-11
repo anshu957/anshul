@@ -11,6 +11,10 @@ title: Publications
 <h1 style="padding-top:10px;">Publications</h1>
 
 <p class="hangingindent">
+ Miller, S. T., Lindner, J. F., <b>Choudhary, A.</b> ,  Sinha, S., & Ditto, W. L.<font color="brown"> Mastering high-dimensional dynamics with Hamiltonian neural networks. </font> <em>Under review (2020) </em>  [<a href="http://arxiv.org/abs/2008.04214">pre-print </a>] .
+
+
+<p class="hangingindent">
 <b>Choudhary, A.</b>,  Lindner, J. F., Holliday, E. G., Miller, S. T., Sinha, S., & Ditto, W. L.<font color="brown"> Physics enhanced neural networks predict order and chaos. </font> <em> Physical Review E </em> <b>101</b>: 062207 (2020) [<a href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.101.062207">pdf </a>] .
 
 

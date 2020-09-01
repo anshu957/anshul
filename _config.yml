@@ -35,6 +35,16 @@ markdown: kramdown
 #theme: minima
 jekyll_env: "production"
 comments: true
+higlighter: rouge
+
+# Sass configuration
+sass:
+  sass_dir  : assets/scss
+  style     : compressed # expanded
+
+# Author settings
+author:
+  name     : "Anshul Choudhary"
 
 plugins:
     - jekyll-feed

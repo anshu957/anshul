@@ -1,7 +1,0 @@
-{% for profilesite in site.data.social_media_url %}
-    {% if profilesite.sitename == include.sitename %}
-        {{ profilesite.icon }}
-	{% break %}
-    {% else %}
-    {% endif %}
-{% endfor %}

@@ -136,11 +136,11 @@ scholar:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics: true
-#enable_katex: true
-#enable_mansory: true
-#enable_progressbar: true
-#enable_tooltips: false
-#show_social_icons: false
+enable_katex: true
+enable_mansory: true
+enable_progressbar: true
+enable_tooltips: false
+show_social_icons: false
 
 # -----------------------------------------------------------------------------
 # Library versions

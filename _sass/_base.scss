@@ -157,13 +157,13 @@ a, table.table a {
 
 .social {
   position: fixed;
-  top:50%;
-  left:5%;
-  -webkit-transform: rotate(-90deg);
-  -ms-transform: rotate(-90deg);
-  transform: rotate(-90deg);
+  top:5%;
+  left:54%;
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
   .contact-icon {
-    font-size: 4vmin;
+    font-size: 2vw;
     a {
       color: $grey-color-dark;
       &:hover {

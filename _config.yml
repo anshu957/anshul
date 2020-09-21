@@ -61,6 +61,7 @@ google_analytics: UA-128380562-1 # out your google-analytics code
 blog_name: al-folio # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
 # Pagination
 pagination:

@@ -4,7 +4,7 @@ title: Understanding Matplotlib
 date: 2020-09-20 00:28:30
 description: unconvering underlying structure of matplotlib 
 categories: visualization, python 
-comments : true
+comments: true
 ---
 
 

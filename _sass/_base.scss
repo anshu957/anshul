@@ -156,9 +156,14 @@ a, table.table a {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  position: fixed;
+  top:50%;
+  left:5%;
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
   .contact-icon {
-    font-size: 4rem;
+    font-size: 4vmin;
     a {
       color: $grey-color-dark;
       &:hover {
@@ -258,7 +263,7 @@ footer.sticky-bottom {
 
 .projects {
   .grid-item {
-    width: 380px;
+    width: 350px;
     margin-bottom: 10px;
     a {
       color: black;

@@ -55,8 +55,8 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .news table td { font-size: 1rem; }
 
-.social { text-align: center; }
-.social .contact-icon { font-size: 4rem; }
+.social { position: fixed; top: 50%; left: 5%; -webkit-transform: rotate(-90deg); -ms-transform: rotate(-90deg); transform: rotate(-90deg); }
+.social .contact-icon { font-size: 4vmin; }
 .social .contact-icon a { color: #424242; }
 .social .contact-icon a:hover { color: #B71C1C; }
 .social .contact-note { font-size: 0.8rem; }
@@ -82,7 +82,7 @@ footer.sticky-bottom { border-top: 1px solid #e8e8e8; padding-top: 40px; padding
 
 .distill a:hover { border-bottom-color: #B71C1C; text-decoration: none; }
 
-.projects .grid-item { width: 380px; margin-bottom: 10px; }
+.projects .grid-item { width: 350px; margin-bottom: 10px; }
 .projects .grid-item a { color: black; text-decoration: none; }
 .projects .grid-item a:hover { color: #B71C1C; }
 .projects .card img { width: 90%; }

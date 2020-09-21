@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url: https://anshu957.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -58,7 +58,7 @@ google_analytics: UA-128380562-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # your blog must have a name for it to show up in the nav bar
+blog_name: blog # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
@@ -106,8 +106,6 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages"]
-exclude: ["_posts"]
-
 # Plug-ins
 plugins:
   - jekyll-email-protect

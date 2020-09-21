@@ -17,13 +17,6 @@ url: https://anshu957.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
-# -----------------------------------------------------------------------------
-# Layout
-# -----------------------------------------------------------------------------
-
-navbar_fixed: true
-footer_fixed: true
-# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -106,12 +99,12 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages"]
-exclude: [vendor, "_posts"]
+exclude: ["_posts"]
 
 # Plug-ins
 plugins:
   - jekyll-email-protect
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll/scholar
   - jemoji
   # - bootstrap
@@ -122,7 +115,7 @@ plugins:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Einstein
+  last_name: Choudhary
 
   style: apa
   locale: en
@@ -144,12 +137,12 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false
-enable_katex: true
-enable_mansory: true
-enable_progressbar: true
-enable_tooltips: false
-show_social_icons: false
+enable_google_analytics: true
+#enable_katex: true
+#enable_mansory: true
+#enable_progressbar: true
+#enable_tooltips: false
+#show_social_icons: false
 
 # -----------------------------------------------------------------------------
 # Library versions

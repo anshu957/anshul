@@ -55,7 +55,7 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .news table td { font-size: 1rem; }
 
-.social { position: relative; }
+.social { text-align: center; }
 .social .contact-icon { font-size: 3vw; }
 .social .contact-icon a { color: #424242; }
 .social .contact-icon a:hover { color: #B71C1C; }

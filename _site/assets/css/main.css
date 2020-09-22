@@ -55,8 +55,8 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .news table td { font-size: 1rem; }
 
-.social { position: fixed; top: 5%; left: 54%; -webkit-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); }
-.social .contact-icon { font-size: 2vw; }
+.social { position: absolute; top: 10%; left: 60%; -webkit-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); transform: translateY(-20%); transform: translateX(-20%); }
+.social .contact-icon { font-size: 2rem; }
 .social .contact-icon a { color: #424242; }
 .social .contact-icon a:hover { color: #B71C1C; }
 .social .contact-note { font-size: 0.8rem; }

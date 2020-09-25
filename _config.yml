@@ -8,7 +8,7 @@ middle_name:
 last_name: Choudhary
 email: achoudh7@ncsu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal webpage
+  My personal webpage.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

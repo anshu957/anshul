@@ -25,7 +25,7 @@ Currently, I'm a `postdoctoral fellow` at the Nonlinear <br>
 Artificial Intelligence Laboratory 
 at NC State University. 
 
-You can access my CV <a href="anshu957.github.io/_data/MyCV-6.pdf" target="_blank">PDF.</a>.
+You can access my CV <a href="https://www.dropbox.com/s/rluo85m54gxo02j/MyCV-6.pdf?dl=0" target="_blank">here.</a>.
 
 <!---
 If you would like to know more about my research, please <br>

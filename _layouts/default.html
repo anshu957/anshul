@@ -1,28 +1,30 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
-    {% include head.html %}
-  </head>
+<head>
+  {% include head.html %}
+  <link href="/assets/css/syntax.css" rel="stylesheet">
+</head>
 
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+<body
+  class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
-    <!-- Header -->
+  <!-- Header -->
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <!-- Content -->
+  <!-- Content -->
 
-    <div class="container mt-5">
-      {{ content }}
-    </div>
+  <div class="container mt-5">
+    {{ content }}
+  </div>
 
-    <!-- Footer -->
+  <!-- Footer -->
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-  </body>
+</body>
 
-  {% include hemline.html %}
+{% include hemline.html %}
 
 </html>

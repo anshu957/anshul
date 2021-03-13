@@ -25,7 +25,7 @@ Currently, I'm a `postdoctoral fellow` at the Nonlinear <br>
 Artificial Intelligence Laboratory 
 at NC State University. 
 
-You can access my CV <a href="assets/pdf/MyCV-6.pdf" target="_blank">here.</a>
+<font size ="4"> :memo: <mark> Access my <a href="assets/pdf/MyCV-6.pdf" target="_blank"> <font size="5"> CV </font> </a> here </mark> </font>
 
 <!---
 If you would like to know more about my research, please <br>
